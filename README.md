@@ -1,5 +1,11 @@
-This edit to the file was made by Suvi.
+VERSION CONTROL TEAM PROJECT
 
-This is first edit done by Milla
+AUTHORS:
+	Suvi Sulonen <suvi.sulonen@tuni.fi>
+	Milla Trogen <milla.trogen@tuni.fi>
+	Susanna Minasyan <susanna.minasyan@tuni.fi>
 
+DATE:
+	2022-02-18
 
+DESCRIPTION:
